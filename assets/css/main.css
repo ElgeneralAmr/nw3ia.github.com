@@ -1750,7 +1750,7 @@
 		background-image: url("images/bg03.png"), url("images/bg04.png"), url("images/bg02.png");
 		background-repeat: no-repeat, no-repeat, repeat;
 		background-size: 100% 15em, 100% 15em, auto auto;
-		background-position: top center, bottom center, top left;
+		
 	}
 
 	.wrapper.style3 {
