@@ -1718,7 +1718,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("images/header.png"), url("../../images/header.jpg");
+		background: url("images/bg01.png"), url("../../images/header.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
 	}
@@ -1846,7 +1846,7 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 36em 0;
+				padding: 3em 0;
 			}
 
 			.wrapper {
