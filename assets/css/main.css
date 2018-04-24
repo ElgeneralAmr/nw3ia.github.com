@@ -1970,7 +1970,7 @@
 			#banner {
 				width: 940px;
 				margin: 0 auto;
-				overflow: visible;
+				overflow:auto;
 				padding: 9em 0 6em 0;
 			}
 
