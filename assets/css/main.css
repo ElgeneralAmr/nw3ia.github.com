@@ -1883,7 +1883,7 @@
 				#header h1 {
 					position: absolute;
 					left: 1.75em;
-					top: 100%;
+					top: 50%;
 					margin-top: -0.65em;
 					font-size: 1.5em;
 					color: #fff;
@@ -1968,7 +1968,7 @@
 		/* Banner */
 
 			#banner {
-				width: 940px;
+				width: 100px;
 				margin: 0 auto;
 				overflow: hidden;
 				padding: 9em 0 6em 0;
