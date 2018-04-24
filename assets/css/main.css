@@ -1968,9 +1968,9 @@
 		/* Banner */
 
 			#banner {
-				width: 100px;
+				width: 940px;
 				margin: 0 auto;
-				overflow: hidden;
+				overflow: visible;
 				padding: 9em 0 6em 0;
 			}
 
